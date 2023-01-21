@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=236B8E&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E3440&height=120&section=header"/>
 
 <!--### Olá! Eu sou o Mateus Maciulevicius, sejam bem vindos! 😎 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=236B8E&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Eu+sou+o+Mateus+Maciulevicius!;Sejam+bem+vindos!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E3440&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Eu+sou+o+Mateus+Maciulevicius!;Sejam+bem+vindos!+:%29)](https://git.io/typing-svg)
 
 
 - 🔭 Ainda não trabalho na área, mas estou me preparando para trabalhar como dev front-end.
@@ -51,7 +51,7 @@
   <img height=30 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   </div>
  
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=236B8E&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E3440&height=120&section=footer"/>
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
