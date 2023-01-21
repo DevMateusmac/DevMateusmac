@@ -11,7 +11,7 @@
 
 <div align="center">
  <img height=180 width=45%  src="https://github-readme-stats-devmateusmac.vercel.app/api?username=DevMateusmac&count_private=false&show_icons=true&theme=nord">
- <img height=180 width=55% src="https://github-readme-stats-devmateusmac.vercel.app/api/top-langs/?username=DevMateusmac&hide=false&layout=compact&theme=nord"> 
+ <img height=180 width=50% src="https://github-readme-stats-devmateusmac.vercel.app/api/top-langs/?username=DevMateusmac&hide=false&layout=compact&theme=nord"> 
 <div/>
 
 
