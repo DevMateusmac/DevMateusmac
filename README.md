@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D2D9E4&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Mateus+Maciulevicius!;Sejam+bem+vindos!+:%29)](https://git.io/typing-svg)
 
 
-- 🔭 Desenvolvedor dev front-end.
+- 🔭 Desenvolvedor front-end.
 - 💻 JavaScript | Typescript.
 - 💬 Você deve estar se perguntando: "que raio de sobrenome é esse?".
 <br>
